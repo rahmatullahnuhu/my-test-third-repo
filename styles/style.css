@@ -35,3 +35,8 @@
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
 }
+
+.photo{
+    display: flex;
+    gap: 25%;
+}
